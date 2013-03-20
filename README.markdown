@@ -263,3 +263,5 @@ MIT
 [jasoncodes]: https://github.com/jasoncodes
 [twe4ked]: https://github.com/twe4ked
 [directory]: https://github.com/freshshell/fresh/wiki/Directory
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/be0d0d9a10eb5c1808b897b84d0b0677 "githalytics.com")](http://githalytics.com/freshshell/fresh)
